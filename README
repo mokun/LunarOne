@@ -1,1 +1,71 @@
-LunarOne is a java-based lunar colony game. In this game, you are the CEO of one of the first interplanetary company in charge of developing a viable Lunar Colony. You may choose to engage directly or indirectly and steer the development of your moonbase. For example, You may recruit colonists from Earth to help you to perform tasks such as  gathering, managing resources, building structures, producing goods,  selling space goods, and even further the cause of humanity in space. Be a space tycoon to seize your opportunity of the lifetime. Use every power at your disposal to secure and expand your space enterprise!
+README file; version 0.1; 2 Nov 2011
+
+############################################
+PROJECT LUNARONE--A MOONBASE SIMULATION GAME
+
+Created:	31 Oct 2009
+Development Team: Manny Kung, Edgar Jauregui,
+Jeff Mires
+
+
+############################################
+BRIEF DESCRIPTION
+
+LunarOne is a java-based lunar colony game. 
+In this game, you are the CEO of one of the 
+first interplanetary company in charge of 
+developing a self-sustaining, viable lunar 
+colony. You may choose to directly engage the 
+daily operation of your colony or indirectly 
+steer its development. For example, You may 
+recruit colonists from Earth to help you 
+everything from gathering, managing resources, 
+building structures, producing goods and 
+selling space goods, to further the cause of 
+humanity in space. Be a space tycoon to seize
+your opportunity of the lifetime and throw 
+everything at your disposal to secure and 
+expand your space enterprise!
+
+############################################
+PLANNED FEATURES:
+
+1. ability to recruit colonists
+2. ability to purchase (e.g. robots, building
+ modules and various items)
+3. ability to generate base income
+4. ability to upgrade
+
+############################################
+DECISION PATHS:
+
+1. should the game be turn-based or real-time?
+2. fun vs. realistic?
+3. what is the player's goal of this game? 
+4. what A.I. will there be in this game?
+
+############################################
+PLANNED PROGRESS:
+
+1. decide on which conceptual elements to
+incorporate at what stage
+2. divide up development tasks among
+developers
+2. program basic game dynamics
+3. develop an user interface (UI) 
+
+############################################
+COPYRIGHT AND LICENSING INFORMATION
+
+The files in this package are under various
+free/open licenses such as GPL, Creative 
+Commons, etc. All sources with their
+respective licenses are available upon request.  
+
+A majority of files in LunarOne by Manny Kung 
+is licensed under a Creative Commons Attribution
+-ShareAlike 3.0 Unported License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+or send a letter to Creative Commons, 444 Castro
+Street, Suite 900, Mountain View, California, 
+94041, USA.
